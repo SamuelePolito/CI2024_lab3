@@ -47,6 +47,4 @@ A* Solution Length: 18
 DFS Solution Length: No solution found
 ```
 
-## License
-This project is licensed under the MIT License.
 
